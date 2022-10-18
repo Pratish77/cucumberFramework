@@ -1,0 +1,90 @@
+-------------------------------------------------------------------------------
+Test set: test_Runner.Login_Test
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 2, Skipped: 0, Time elapsed: 67.068 sec <<< FAILURE!
+Add a new customer(Customers)  Time elapsed: 7.267 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#Email"}
+  (Session info: chrome=106.0.5249.119)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [106b7137e0aff83bd663277c31bbd6e6, findElement {using=id, value=Email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\PRATIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63826}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63826/devtoo..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 106b7137e0aff83bd663277c31bbd6e6
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.sendKeys(Unknown Source)
+	at pages.Login_Page.setEmail(Login_Page.java:51)
+	at stepDfntns.Step_Definitions.user_enters_email_as_and_password_as(Step_Definitions.java:73)
+	at ✽.User enters Email as "admin@yourstore.com" and password as "admin"(file:///C:/Users/Pratish%20Dama/eclipse-workspace/nopCommerece/./FeatureFile/Customers.feature:6)
+
+Search Customer by EMailID(Customers)  Time elapsed: 6.12 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#Email"}
+  (Session info: chrome=106.0.5249.119)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [755f85c8e5642745a0e914d5206db050, findElement {using=id, value=Email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\PRATIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63845}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63845/devtoo..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 755f85c8e5642745a0e914d5206db050
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.sendKeys(Unknown Source)
+	at pages.Login_Page.setEmail(Login_Page.java:51)
+	at stepDfntns.Step_Definitions.user_enters_email_as_and_password_as(Step_Definitions.java:73)
+	at ✽.User enters Email as "admin@yourstore.com" and password as "admin"(file:///C:/Users/Pratish%20Dama/eclipse-workspace/nopCommerece/./FeatureFile/Customers.feature:6)
+
+Successful Login with Valid Credentilas(Login)  Time elapsed: 17.005 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDfntns.Step_Definitions.page_title_should_be(Step_Definitions.java:109)
+	at ✽.Page Title should be "nopCommerce demo store"(file:///C:/Users/Pratish%20Dama/eclipse-workspace/nopCommerece/./FeatureFile/LoginFeature.feature:9)
+
+Login Data Driven #1(Login)  Time elapsed: 18.166 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDfntns.Step_Definitions.page_title_should_be(Step_Definitions.java:109)
+	at ✽.Page Title should be "nopCommerce demo store"(file:///C:/Users/Pratish%20Dama/eclipse-workspace/nopCommerece/./FeatureFile/LoginFeature.feature:21)
+
+Login Data Driven #2(Login)  Time elapsed: 17.63 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDfntns.Step_Definitions.page_title_should_be(Step_Definitions.java:109)
+	at ✽.Page Title should be "nopCommerce demo store"(file:///C:/Users/Pratish%20Dama/eclipse-workspace/nopCommerece/./FeatureFile/LoginFeature.feature:21)
+

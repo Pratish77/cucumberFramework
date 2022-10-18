@@ -1,0 +1,392 @@
+2022-10-17 11:13:42,397 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:13:42,454 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:13:43,659 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:14:25,444 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 11:14:25,444 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 11:15:13,189 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 11:15:21,589 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:15:23,300 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:15:23,303 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:15:25,187 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:15:39,938 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:15:39,942 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:15:41,821 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:15:56,394 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:15:56,396 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:16:04,889 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:16:20,552 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:16:20,552 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:16:20,580 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:16:20,599 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 11:16:29,485 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:16:29,485 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:16:29,504 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:16:29,515 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:16:30,777 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:16:30,777 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:29:02,094 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:29:02,141 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:29:05,345 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:29:32,232 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:29:32,235 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:29:36,804 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:29:54,541 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:29:54,544 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:29:57,713 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:30:18,521 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:30:18,523 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:30:21,553 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:30:39,298 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:30:39,303 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:30:41,846 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:33:49,282 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:33:49,334 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:33:54,535 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:34:25,461 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 11:34:25,461 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 11:35:13,011 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 11:35:23,311 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:35:24,655 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:35:24,663 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:35:30,301 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:36:04,288 +0530 [main] INFO  (Step_Definitions.java:175) - *****Searching customer by email ID*******
+2022-10-17 11:36:07,751 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:36:11,266 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:36:11,269 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:36:13,095 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:36:28,340 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:36:28,340 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:36:28,355 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:36:28,363 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 11:36:38,325 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:36:38,325 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:36:38,333 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:36:38,341 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:36:39,622 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:36:39,628 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:36:42,748 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:36:57,125 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:36:57,126 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:36:57,139 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:36:57,157 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 11:37:07,903 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:37:07,903 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:37:07,917 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:37:07,923 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:37:09,285 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:37:09,316 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:37:11,833 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:37:27,784 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:37:27,784 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:37:27,801 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:37:27,814 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 11:37:36,683 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 11:37:36,683 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 11:37:36,693 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 11:37:36,700 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 11:41:54,191 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:41:54,247 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:41:56,145 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:42:21,352 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 11:42:21,353 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 11:43:08,596 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 11:43:19,848 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:43:19,852 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:43:21,567 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:44:37,994 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:44:38,060 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:44:39,868 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 11:45:09,629 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 11:45:09,630 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 11:45:56,905 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 11:46:09,225 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 11:46:09,227 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 11:46:11,424 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:00:17,605 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:00:17,661 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:00:19,307 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:00:43,372 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 12:00:43,372 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 12:01:30,451 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 12:01:42,165 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:01:42,168 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:01:43,120 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:04:09,218 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:04:09,266 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:04:10,896 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:04:34,415 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 12:04:34,415 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 12:05:21,531 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 12:09:17,793 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:09:17,841 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:09:19,544 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:09:49,083 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 12:09:49,083 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 12:10:36,102 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 12:10:47,698 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:10:47,700 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:10:48,852 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:15:35,956 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:15:36,002 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:15:37,885 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:16:24,360 +0530 [main] INFO  (Step_Definitions.java:127) - *****Adding new customer*******
+2022-10-17 12:16:24,360 +0530 [main] INFO  (Step_Definitions.java:128) - *****Providing customer details*******
+2022-10-17 12:17:11,571 +0530 [main] INFO  (Step_Definitions.java:161) - *****Saving customer data*******
+2022-10-17 12:17:22,981 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:17:22,984 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:17:24,579 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:26:24,574 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:26:24,624 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:26:27,283 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:26:41,854 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:26:41,855 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:26:41,867 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:26:41,879 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 12:26:50,885 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:26:50,886 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:26:50,895 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:26:50,908 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 12:26:52,456 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:26:52,459 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:26:56,080 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:27:09,914 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:27:09,916 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:27:09,927 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:27:09,941 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 12:27:18,898 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:27:18,899 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:27:18,907 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:27:18,921 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 12:27:22,426 +0530 [main] INFO  (Step_Definitions.java:26) - ****Launching browser*****
+2022-10-17 12:27:22,429 +0530 [main] INFO  (Step_Definitions.java:33) - *********Opening url***********
+2022-10-17 12:27:24,509 +0530 [main] INFO  (Step_Definitions.java:41) - ****Providing login details****
+2022-10-17 12:27:39,143 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:27:39,144 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:27:39,153 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:27:39,160 +0530 [main] INFO  (Step_Definitions.java:90) - *****click on logout*******
+2022-10-17 12:27:48,106 +0530 [main] INFO  (Step_Definitions.java:81) - *****Login failed*******
+2022-10-17 12:27:48,106 +0530 [main] INFO  (Step_Definitions.java:82) - nopCommerce demo store
+2022-10-17 12:27:48,116 +0530 [main] INFO  (Step_Definitions.java:83) - nopCommerce demo store
+2022-10-17 12:27:48,125 +0530 [main] INFO  (Step_Definitions.java:97) - *****closing browser*******
+2022-10-17 13:55:55,300 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 13:55:55,386 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 13:55:55,436 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 13:55:55,440 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 13:55:55,473 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 13:55:55,477 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 13:55:55,501 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 13:55:55,503 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 13:55:55,532 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 13:55:55,535 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:01:43,942 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:01:44,006 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:01:44,065 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:01:44,068 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:01:44,110 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:01:44,112 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:01:44,143 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:01:44,146 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:01:44,173 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:01:44,176 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 14:05:06,550 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:05:06,611 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:05:06,667 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:05:06,672 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:05:06,718 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:05:06,721 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:05:06,751 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:05:06,756 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:05:06,779 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:05:06,782 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:10:16,429 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:10:16,488 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:10:16,546 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:10:16,549 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:10:16,584 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:10:16,588 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:10:16,615 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:10:16,618 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:10:16,640 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:10:16,643 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:54:55,540 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:54:55,593 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:54:57,318 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 14:55:41,414 +0530 [main] INFO  (Step_Definitions.java:156) - *****Adding new customer*******
+2022-10-17 14:55:41,414 +0530 [main] INFO  (Step_Definitions.java:157) - *****Providing customer details*******
+2022-10-17 14:56:28,019 +0530 [main] INFO  (Step_Definitions.java:190) - *****Saving customer data*******
+2022-10-17 14:56:39,324 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:56:39,327 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:56:44,878 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 14:57:31,950 +0530 [main] INFO  (Step_Definitions.java:206) - *****Searching customer by email ID*******
+2022-10-17 14:57:35,361 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 14:57:36,421 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 14:57:36,424 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 14:57:41,437 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:23:04,123 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 15:23:04,178 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 15:23:07,671 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:24:10,630 +0530 [main] INFO  (Step_Definitions.java:156) - *****Adding new customer*******
+2022-10-17 15:24:10,631 +0530 [main] INFO  (Step_Definitions.java:157) - *****Providing customer details*******
+2022-10-17 15:24:57,253 +0530 [main] INFO  (Step_Definitions.java:190) - *****Saving customer data*******
+2022-10-17 15:25:06,977 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 15:25:08,201 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 15:25:08,203 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 15:25:10,816 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:25:39,330 +0530 [main] INFO  (Step_Definitions.java:206) - *****Searching customer by email ID*******
+2022-10-17 15:25:42,654 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 15:25:43,737 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 15:25:43,740 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 15:25:46,408 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:26:02,396 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:26:02,397 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:26:02,410 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:26:02,418 +0530 [main] INFO  (Step_Definitions.java:119) - *****click on logout*******
+2022-10-17 15:26:12,184 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:26:12,184 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:26:12,190 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:26:12,196 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 15:26:13,343 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 15:26:13,345 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 15:26:16,035 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:26:33,693 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:26:33,693 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:26:33,702 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:26:33,711 +0530 [main] INFO  (Step_Definitions.java:119) - *****click on logout*******
+2022-10-17 15:26:44,317 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:26:44,318 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:26:44,328 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:26:44,333 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 15:26:45,380 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 15:26:45,383 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 15:26:48,133 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 15:27:13,424 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:27:13,425 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:27:13,434 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:27:13,441 +0530 [main] INFO  (Step_Definitions.java:119) - *****click on logout*******
+2022-10-17 15:27:24,222 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 15:27:24,223 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 15:27:24,230 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 15:27:24,240 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 16:48:28,729 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 16:48:28,788 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 16:48:31,139 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 16:48:56,644 +0530 [main] INFO  (Step_Definitions.java:156) - *****Adding new customer*******
+2022-10-17 16:48:56,644 +0530 [main] INFO  (Step_Definitions.java:157) - *****Providing customer details*******
+2022-10-17 16:49:43,307 +0530 [main] INFO  (Step_Definitions.java:190) - *****Saving customer data*******
+2022-10-17 16:49:53,254 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 16:49:54,847 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 16:49:54,851 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 16:49:57,714 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 16:50:12,637 +0530 [main] INFO  (Step_Definitions.java:107) - *****Login Passed*******
+2022-10-17 16:53:28,625 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 16:53:28,678 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 16:53:32,250 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 16:54:08,131 +0530 [main] INFO  (Step_Definitions.java:156) - *****Adding new customer*******
+2022-10-17 16:54:08,132 +0530 [main] INFO  (Step_Definitions.java:157) - *****Providing customer details*******
+2022-10-17 16:54:54,823 +0530 [main] INFO  (Step_Definitions.java:190) - *****Saving customer data*******
+2022-10-17 16:55:05,180 +0530 [main] INFO  (Step_Definitions.java:126) - *****closing browser*******
+2022-10-17 16:55:06,496 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 16:55:06,498 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 16:55:09,930 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 16:55:24,529 +0530 [main] INFO  (Step_Definitions.java:107) - *****Login Passed*******
+2022-10-17 17:29:15,921 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:29:15,982 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:29:18,322 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:29:32,198 +0530 [main] INFO  (Step_Definitions.java:107) - *****Login Passed*******
+2022-10-17 17:29:33,430 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:29:33,432 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:29:34,867 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:29:52,605 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:29:52,649 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:29:55,148 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:30:09,216 +0530 [main] INFO  (Step_Definitions.java:107) - *****Login Passed*******
+2022-10-17 17:30:10,279 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:30:10,282 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:30:11,975 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:34:04,690 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:34:04,761 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:34:07,712 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:34:21,678 +0530 [main] INFO  (Step_Definitions.java:107) - *****Login Passed*******
+2022-10-17 17:38:35,760 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:38:35,802 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:38:37,179 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:38:41,197 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 17:38:41,199 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 17:38:44,055 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 17:39:01,295 +0530 [main] INFO  (Step_Definitions.java:110) - *****Login failed*******
+2022-10-17 17:39:01,296 +0530 [main] INFO  (Step_Definitions.java:111) - nopCommerce demo store
+2022-10-17 17:39:01,306 +0530 [main] INFO  (Step_Definitions.java:112) - nopCommerce demo store
+2022-10-17 17:39:01,311 +0530 [main] INFO  (Step_Definitions.java:119) - *****click on logout*******
+2022-10-17 18:53:18,042 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 18:53:18,098 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 18:53:19,605 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 18:53:24,063 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 18:53:24,066 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 18:53:25,679 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 19:19:54,437 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:19:54,494 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:19:56,072 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 19:20:00,316 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:20:00,316 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:20:01,995 +0530 [main] INFO  (Step_Definitions.java:70) - ****Providing login details****
+2022-10-17 19:20:06,158 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:20:06,161 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:20:09,375 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:20:09,377 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:21:05,329 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:21:05,386 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:21:08,021 +0530 [main] INFO  (Step_Definitions.java:50) - ****Launching browser*****
+2022-10-17 19:21:08,025 +0530 [main] INFO  (Step_Definitions.java:62) - *********Opening url***********
+2022-10-17 19:30:45,082 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:30:45,124 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:30:46,847 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:30:51,047 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:30:51,049 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:30:52,846 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:30:56,966 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:30:56,968 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:31:00,961 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:38:33,427 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:38:33,482 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:38:34,883 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:38:39,338 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:38:39,340 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:41:46,428 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:41:46,473 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:41:47,822 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:52:26,641 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:52:26,782 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:52:28,408 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:52:32,589 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:52:32,593 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:52:34,171 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:52:38,288 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:52:38,292 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:52:40,865 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:52:54,638 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
+2022-10-17 19:52:55,608 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:52:55,610 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:53:00,936 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:53:14,107 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
+2022-10-17 19:53:15,069 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:53:15,071 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:53:20,033 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:53:33,064 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
+2022-10-17 19:54:28,476 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:54:28,507 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:54:30,069 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:54:34,121 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:54:34,124 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:54:36,236 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:54:40,279 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:54:40,282 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:54:42,975 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:54:56,277 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
+2022-10-17 19:54:57,247 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:54:57,250 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:55:00,652 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:55:14,440 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
+2022-10-17 19:55:15,380 +0530 [main] INFO  (Step_Definitions.java:51) - ****Launching browser*****
+2022-10-17 19:55:15,380 +0530 [main] INFO  (Step_Definitions.java:63) - *********Opening url***********
+2022-10-17 19:55:17,710 +0530 [main] INFO  (Step_Definitions.java:71) - ****Providing login details****
+2022-10-17 19:55:32,071 +0530 [main] INFO  (Step_Definitions.java:108) - *****Login Passed*******
